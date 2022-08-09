@@ -2,8 +2,8 @@
 
 All materials needed to reproduced results in:
 
-> Strangers mind the gaps in conversation more than friends  
-> Emma M. Templeton, Luke J. Chang, Elizabeth A. Reynolds, Marie D. Cone LeBeaumont and Thalia P. Wheatley
+> Long gaps between turns are awkward for strangers but not for friends   
+> Emma M. Templeton, Luke J. Chang, Elizabeth A. Reynolds, Marie D. Cone LeBeaumont and Thalia Wheatley
 
 **Data** includes unmanipulated data files
 
@@ -12,3 +12,5 @@ All materials needed to reproduced results in:
 **Analyses** includes outputs from scripts run in Code (e.g., derivatives)
 
 **Figures** includes... figures!
+
+**Supplement** includes additional information about transcript files + supplement document
