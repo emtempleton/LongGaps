@@ -1,13 +1,13 @@
 video_num,rater,awkward,connected,topics,laughter_genuine,laughter_present,laughter_who,gestures_present,gestures_describe,rater_know_person,rater_know_how,notes
-1,0,68.0,14.0,50.0,,2.0,,2.0,nan,1.0,Both are in the same sorority as me; the person on the left also works in Luke's lab with me,nan
+1,0,68.0,14.0,50.0,,2.0,,2.0,nan,1.0,Both are in the same [group] as me; the person on the left also works in [PI Name] lab with me,nan
 2,0,0.0,0.0,80.0,,2.0,,2.0,nan,2.0,nan,nan
 3,0,9.0,70.0,94.0,6.0,1.0,3.0,2.0,nan,2.0,nan,nan
 4,0,13.0,70.0,78.0,,2.0,,1.0,Person on the left nodding his head,2.0,nan,nan
 5,0,10.0,57.0,100.0,,2.0,,2.0,nan,2.0,nan,nan
-6,0,0.0,67.0,100.0,,2.0,,2.0,nan,1.0,I know the person on the right from the Dartmouth Symphony Orchestra,nan
+6,0,0.0,67.0,100.0,,2.0,,2.0,nan,1.0,I know the person on the right from the [club],nan
 7,0,18.0,71.0,100.0,,2.0,,1.0,Exaggerated facial expression,2.0,nan,nan
 8,0,0.0,90.0,91.0,8.0,1.0,3.0,2.0,nan,2.0,nan,nan
-9,0,63.0,55.0,63.0,,2.0,,1.0,Nodding their heads,1.0,Person on the left I know from being in the Dartmouth Symphony Orchestra together,nan
+9,0,63.0,55.0,63.0,,2.0,,1.0,Nodding their heads,1.0,Person on the left I know from being in the [club name] together,nan
 10,0,0.0,66.0,100.0,,2.0,,2.0,nan,2.0,nan,nan
 11,0,57.0,51.0,100.0,,2.0,,2.0,nan,2.0,nan,nan
 12,0,67.0,59.0,29.0,,2.0,,1.0,Nodding their head (person on the right),2.0,nan,nan
@@ -21,9 +21,9 @@ video_num,rater,awkward,connected,topics,laughter_genuine,laughter_present,laugh
 20,0,26.0,40.0,100.0,,2.0,,2.0,nan,2.0,nan,nan
 21,0,86.0,17.0,0.0,,2.0,,2.0,nan,2.0,nan,nan
 22,0,14.0,84.0,100.0,8.0,1.0,3.0,1.0,Shaking their head (person on the left),2.0,nan,nan
-23,0,49.0,7.0,100.0,,2.0,,2.0,nan,1.0,Friends with the person on the left from the Dartmouth Symphony Orchestra,nan
+23,0,49.0,7.0,100.0,,2.0,,2.0,nan,1.0,Friends with the person on the left from the [club name],nan
 24,0,12.0,25.0,0.0,6.0,1.0,1.0,1.0,Nodding their head,2.0,nan,nan
-25,0,0.0,50.0,100.0,,2.0,,2.0,nan,1.0,Person on the left is from my sorority,nan
+25,0,0.0,50.0,100.0,,2.0,,2.0,nan,1.0,Person on the left is from my [group],nan
 26,0,20.0,78.0,0.0,8.0,1.0,1.0,2.0,nan,2.0,nan,nan
 27,0,13.0,8.0,81.0,,2.0,,2.0,nan,2.0,nan,nan
 28,0,18.0,81.0,100.0,6.0,1.0,3.0,2.0,nan,1.0,Friends with the person on the left through mutual friends,nan
@@ -33,15 +33,15 @@ video_num,rater,awkward,connected,topics,laughter_genuine,laughter_present,laugh
 32,0,88.0,6.0,100.0,,2.0,,1.0,Nodding their head,2.0,nan,nan
 33,0,73.0,17.0,84.0,,2.0,,2.0,nan,2.0,nan,nan
 34,0,69.0,19.0,0.0,,2.0,,2.0,nan,1.0,Person on the right was my freshman floormate (don't really know him besides the fact that he exists),nan
-35,0,86.0,6.0,0.0,,2.0,,2.0,nan,1.0,Person on the left from the Dartmouth Symphony Orchestra,nan
+35,0,86.0,6.0,0.0,,2.0,,2.0,nan,1.0,Person on the left from the [club name],nan
 36,0,0.0,68.0,100.0,,2.0,,1.0,Exaggerated facial expression (like a grimace),1.0,"Person on the left from a class I took with her; person on the right, we've been good friends for a couple years, met through mutual friends",nan
-37,0,73.0,16.0,0.0,,2.0,,1.0,Nodding their heads,1.0,"Person on the left is also in the Dartmouth Symphony Orchestra with me, person on the right -- I just know him (acquaintances) but can't remember how",nan
+37,0,73.0,16.0,0.0,,2.0,,1.0,Nodding their heads,1.0,"Person on the left is also in the [club name] with me, person on the right -- I just know him (acquaintances) but can't remember how",nan
 38,0,66.0,55.0,0.0,5.0,1.0,3.0,2.0,nan,1.0,Friends with the person on the left through mutual friends,nan
 39,0,75.0,14.0,27.0,,2.0,,1.0,Both nodded their heads,2.0,nan,nan
-40,0,60.0,64.0,0.0,,2.0,,2.0,nan,1.0,"I know the person on the left from a class we took together, and the person on the right from being in the same sorority",nan
-41,0,63.0,68.0,95.0,6.0,1.0,3.0,2.0,nan,1.0,I know the person on the left from the Dartmouth Symphony Orchestra,nan
-42,0,56.0,37.0,14.0,,2.0,,1.0,Nodding their head (person on the left),1.0,I know the person on the left from my sorority,nan
-43,0,85.0,5.0,89.0,,2.0,,1.0,Nodding their head (person on the left),1.0,I know the person on the left from being in the Dartmouth Symphony Orchestra together,nan
+40,0,60.0,64.0,0.0,,2.0,,2.0,nan,1.0,"I know the person on the left from a class we took together, and the person on the right from being in the same [group]",nan
+41,0,63.0,68.0,95.0,6.0,1.0,3.0,2.0,nan,1.0,I know the person on the left from the [club name],nan
+42,0,56.0,37.0,14.0,,2.0,,1.0,Nodding their head (person on the left),1.0,I know the person on the left from my [group],nan
+43,0,85.0,5.0,89.0,,2.0,,1.0,Nodding their head (person on the left),1.0,I know the person on the left from being in the [club name],nan
 44,0,37.0,24.0,100.0,,2.0,,2.0,nan,2.0,nan,nan
 45,0,10.0,73.0,100.0,,2.0,,2.0,nan,1.0,Person on the right - we took a class together last spring,nan
 46,0,86.0,16.0,88.0,,2.0,,1.0,Both nodded their heads,2.0,nan,nan
@@ -55,18 +55,18 @@ video_num,rater,awkward,connected,topics,laughter_genuine,laughter_present,laugh
 54,0,63.0,65.0,100.0,4.0,1.0,3.0,1.0,A little head motion / gesture from the person on the left,2.0,nan,nan
 55,0,0.0,93.0,100.0,9.0,1.0,3.0,2.0,nan,2.0,nan,nan
 56,0,9.0,63.0,95.0,,2.0,,1.0,Nodding their head,2.0,nan,nan
-57,0,0.0,51.0,100.0,,2.0,,1.0,Smile-like exaggerated facial expression,1.0,"Person on the left is a friend of a good friend, person on the right I'm in the Dartmouth Symphony Orchestra with",nan
+57,0,0.0,51.0,100.0,,2.0,,1.0,Smile-like exaggerated facial expression,1.0,"Person on the left is a friend of a good friend, person on the right I'm in the [club name] with",nan
 58,0,30.0,61.0,83.0,8.0,1.0,1.0,1.0,Nodding their head (person on the right),2.0,nan,nan
 59,0,1.0,56.0,100.0,,2.0,,2.0,nan,2.0,nan,nan
 60,0,0.0,100.0,100.0,,2.0,,1.0,Exaggerated facial expression (smile) from the person on the right,1.0,Person on the left - I tutored him my freshman year,nan
 61,0,9.0,70.0,0.0,,2.0,,2.0,nan,2.0,nan,nan
 62,0,9.0,85.0,100.0,9.0,1.0,1.0,2.0,nan,2.0,nan,nan
 63,0,6.0,94.0,69.0,8.0,1.0,3.0,2.0,nan,2.0,nan,nan
-64,0,10.0,84.0,86.0,9.0,1.0,2.0,2.0,nan,1.0,Person on the left is just an acquaintance from my orgo I (and maybe II class) and Mia (on the right) is in the same sorority as me and we both work in Luke's lab,nan
+64,0,10.0,84.0,86.0,9.0,1.0,2.0,2.0,nan,1.0,Person on the left is just an acquaintance from my [class name] I (and maybe [class name]) and [name] (on the right) is in the same [group] as me and we both work in [PI name] lab,nan
 65,0,0.0,100.0,78.0,8.0,1.0,3.0,2.0,nan,2.0,nan,nan
 66,0,40.0,79.0,12.0,,2.0,,2.0,nan,2.0,nan,nan
 67,0,0.0,100.0,100.0,9.0,1.0,3.0,2.0,nan,1.0,Tutored the person on the left his freshman year,nan
-68,0,9.0,63.0,100.0,,2.0,,2.0,nan,1.0,I know both people from the Dartmouth Symphony Orchestra; the one on the right is one of my best friends on campus,nan
+68,0,9.0,63.0,100.0,,2.0,,2.0,nan,1.0,I know both people from the [club name]; the one on the right is one of my best friends on campus,nan
 69,0,5.0,59.0,100.0,,2.0,,2.0,nan,2.0,nan,nan
 70,0,23.0,65.0,0.0,7.0,1.0,3.0,2.0,nan,2.0,nan,nan
 71,0,6.0,69.0,100.0,,2.0,,2.0,nan,2.0,nan,nan
@@ -74,32 +74,32 @@ video_num,rater,awkward,connected,topics,laughter_genuine,laughter_present,laugh
 73,0,13.0,53.0,88.0,,2.0,,2.0,nan,2.0,nan,nan
 74,0,24.0,15.0,98.0,,2.0,,2.0,nan,2.0,nan,nan
 75,0,5.0,95.0,97.0,9.0,1.0,3.0,2.0,nan,2.0,nan,nan
-76,0,17.0,18.0,88.0,,2.0,,1.0,Exaggerated facial expression,1.0,I'm in the Dartmouth Symphony Orchestra with the person on the right!,nan
+76,0,17.0,18.0,88.0,,2.0,,1.0,Exaggerated facial expression,1.0,I'm in the [club name] with the person on the right!,nan
 77,0,11.0,83.0,100.0,6.0,1.0,3.0,2.0,nan,2.0,nan,nan
-78,0,0.0,64.0,100.0,,2.0,,1.0,Hand gestures and facial expressions,1.0,I know the person on the left from premed classes and we're just friends in general,nan
-79,0,21.0,15.0,96.0,,2.0,,2.0,nan,1.0,Both from the Dartmouth Symphony Orchestra,nan
+78,0,0.0,64.0,100.0,,2.0,,1.0,Hand gestures and facial expressions,1.0,I know the person on the left from [class name] classes and we're just friends in general,nan
+79,0,21.0,15.0,96.0,,2.0,,2.0,nan,1.0,Both from the [club name],nan
 80,0,40.0,66.0,32.0,,2.0,,1.0,Nodding their head (person on the right),2.0,nan,nan
 81,0,21.0,68.0,18.0,,2.0,,2.0,nan,2.0,nan,nan
 82,0,25.0,69.0,0.0,7.0,1.0,3.0,1.0,Exaggerated facial expression,2.0,nan,nan
-83,0,19.0,59.0,100.0,8.0,1.0,1.0,2.0,nan,1.0,Friends with the person on the right from Dartmouth Symphony Orchestra,nan
+83,0,19.0,59.0,100.0,8.0,1.0,1.0,2.0,nan,1.0,Friends with the person on the right from [club name],nan
 84,0,21.0,74.0,100.0,7.0,1.0,3.0,2.0,nan,2.0,nan,nan
 85,0,5.0,95.0,0.0,8.0,1.0,3.0,2.0,nan,2.0,nan,nan
 86,0,0.0,94.0,100.0,8.0,1.0,3.0,2.0,nan,2.0,nan,nan
 87,0,15.0,80.0,0.0,8.0,1.0,3.0,1.0,Exaggerated facial expression,1.0,I tutored the person on the left in two classes during his freshman year ,nan
-88,0,12.0,74.0,100.0,,2.0,,2.0,nan,1.0,Person on the left was in my freshman fall chemistry class,nan
-89,0,55.0,59.0,53.0,4.0,1.0,3.0,1.0,Nodding their head (person on left),1.0,From Greek life (person on the right),nan
+88,0,12.0,74.0,100.0,,2.0,,2.0,nan,1.0,Person on the left was in my [class name] class,nan
+89,0,55.0,59.0,53.0,4.0,1.0,3.0,1.0,Nodding their head (person on left),1.0,From [group] (person on the right),nan
 90,0,20.0,71.0,100.0,5.0,1.0,3.0,2.0,nan,2.0,nan,nan
 91,0,0.0,100.0,100.0,9.0,1.0,3.0,2.0,nan,2.0,nan,nan
 92,0,16.0,62.0,100.0,,2.0,,2.0,nan,2.0,nan,nan
-93,0,57.0,13.0,0.0,,2.0,,1.0,Nodding their head (person on the right),1.0,Both from the Dartmouth Symphony Orchestra,nan
-94,0,75.0,20.0,100.0,,2.0,,2.0,nan,1.0,Friends with the person on the right from the Dartmouth Symphony Orchestra,nan
+93,0,57.0,13.0,0.0,,2.0,,1.0,Nodding their head (person on the right),1.0,Both from the [club name],nan
+94,0,75.0,20.0,100.0,,2.0,,2.0,nan,1.0,Friends with the person on the right from the [club name],nan
 95,0,26.0,56.0,100.0,6.0,1.0,1.0,2.0,nan,2.0,nan,nan
 96,0,84.0,8.0,93.0,,2.0,,1.0,Nodding their head,2.0,nan,nan
 97,0,0.0,97.0,0.0,9.0,1.0,3.0,1.0,Hand movement type gesture,2.0,nan,nan
 98,0,0.0,100.0,0.0,8.0,1.0,3.0,2.0,nan,2.0,nan,nan
 99,0,0.0,100.0,100.0,9.0,1.0,3.0,2.0,nan,2.0,nan,nan
 100,0,0.0,100.0,100.0,9.0,1.0,3.0,1.0,Exaggerated facial expression,2.0,nan,nan
-1,1,20.0,63.0,24.0,,2.0,,1.0,Each person nodded slightly,1.0,The person on the left was my freshman trip leader,nan
+1,1,20.0,63.0,24.0,,2.0,,1.0,Each person nodded slightly,1.0,The person on the left was my freshman [group] leader,nan
 2,1,16.0,72.0,13.0,,2.0,,2.0,nan,1.0,The person on the left is a friend,nan
 3,1,6.0,88.0,78.0,7.0,1.0,3.0,2.0,nan,2.0,nan,nan
 4,1,68.0,29.0,71.0,,2.0,,1.0,"The person on the left nodded their head a lot, and the person on the right nodded a couple of times",2.0,nan,I think that they were talking about skiing at the Skiway and then transitioned to talking about skiing out West
@@ -162,7 +162,7 @@ video_num,rater,awkward,connected,topics,laughter_genuine,laughter_present,laugh
 61,1,62.0,31.0,0.0,,2.0,,1.0,"The person on the left shook their head and scrunched up their face, almost as if they were cringing",2.0,nan,nan
 62,1,56.0,84.0,99.0,5.0,1.0,1.0,2.0,nan,2.0,nan,nan
 63,1,28.0,70.0,71.0,,2.0,,2.0,nan,2.0,nan,nan
-64,1,70.0,45.0,89.0,5.0,1.0,2.0,2.0,nan,1.0,The person on the right was my freshman trips leader,nan
+64,1,70.0,45.0,89.0,5.0,1.0,2.0,2.0,nan,1.0,The person on the right was my freshman [group] leader,nan
 65,1,0.0,91.0,77.0,9.0,1.0,3.0,2.0,nan,2.0,nan,nan
 66,1,71.0,80.0,69.0,8.0,1.0,1.0,1.0,"The person on the right covered their mouth with their hand, seeming to express regret at what they'd just said",2.0,nan,nan
 67,1,5.0,99.0,85.0,8.0,1.0,3.0,2.0,nan,1.0,They were both on my floor freshman year and friends of mine,nan
@@ -210,7 +210,7 @@ video_num,rater,awkward,connected,topics,laughter_genuine,laughter_present,laugh
 9,2,61.0,35.0,33.0,,2.0,,2.0,nan,2.0,nan,nan
 10,2,25.0,60.0,100.0,,2.0,,2.0,nan,2.0,nan,nan
 11,2,1.0,34.0,38.0,,2.0,,2.0,nan,2.0,nan,nan
-12,2,77.0,24.0,37.0,,2.0,,2.0,nan,1.0,writ 5 classmate,nan
+12,2,77.0,24.0,37.0,,2.0,,2.0,nan,1.0,[class name] classmate,nan
 13,2,10.0,62.0,90.0,,2.0,,1.0,exasperated sigh,2.0,nan,nan
 14,2,41.0,42.0,13.0,,2.0,,2.0,nan,1.0,work colleague,nan
 15,2,67.0,11.0,21.0,,2.0,,2.0,nan,2.0,nan,i think my rating of closeness is also influenced by posture of speakers in general
