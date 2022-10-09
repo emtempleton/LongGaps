@@ -10,7 +10,7 @@ library(lme4)
 library(lmerTest)
 library(lsr)
 
-setwd("/Users/Emma/Dropbox/Manuscripts/long_gaps_repo_revision")
+#setwd() # path here
 
 #################### STUDY 1 ###########################
 
@@ -51,7 +51,7 @@ summary(zinbinom2b)
 # SUPPLEMENTAL ANALYSIS
 
 # How do different thresholds impact results?
-# thresholds tested (ms): 500, 750, 1000, 1250, 1500, 1750, 2250, 2500, 2750, 3000 
+# Thresholds tested (ms): 500, 750, 1000, 1250, 1500, 1750, 2250, 2500, 2750, 3000 
 # All cutoffs provide the same result: friends have more long gaps than strangers
 
 # poisson regression approach 
@@ -468,7 +468,7 @@ model <- lmer(connection_change ~ condition_x * laughter +
                 (1 | subID) + (1 | dyad), data=three_after)
 summary(model)
 
-# Test for mediation effects!
+# Test for mediation effects
 # Step 1: condition --> change in connection 
 fit.totaleffect <- lmer(connection_change ~ condition_x +  
                           (1 | subID), data=one_before)
