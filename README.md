@@ -2,8 +2,7 @@
 
 All materials needed to reproduced results in:
 
-> Long gaps between turns are awkward for strangers but not for friends   
-> Emma M. Templeton, Luke J. Chang, Elizabeth A. Reynolds, Marie D. Cone LeBeaumont and Thalia Wheatley
+> Templeton, E., Chang, L., Reynolds, E., Cone LeBeaumont, M., & Wheatley, T. (2022). Long gaps between turns are awkward for strangers but not for friends. *Philosophical Transactions of the Royal Society B*    
 
 **Data** includes unmanipulated data files
 
