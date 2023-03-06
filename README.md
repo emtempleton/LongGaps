@@ -2,7 +2,7 @@
 
 All materials needed to reproduced results in:
 
-> Templeton, E., Chang, L., Reynolds, E., Cone LeBeaumont, M., & Wheatley, T. (2022). Long gaps between turns are awkward for strangers but not for friends. *Philosophical Transactions of the Royal Society B*    
+> Templeton, E., Chang, L., Reynolds, E., Cone LeBeaumont, M., & Wheatley, T. (2023). Long gaps between turns are awkward for strangers but not for friends. *Philosophical Transactions of the Royal Society B*    
 
 **Data** includes unmanipulated data files
 
